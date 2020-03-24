@@ -7,4 +7,6 @@
 <item elementID="=jupiter/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583102913287_2" label="Window Working Set" name="Aggregate for window 1583102913286"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1584306598788_3" label="Window Working Set" name="Aggregate for window 1584306598788"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1584810537336_4" label="Window Working Set" name="Aggregate for window 1584810537336"/>
 </workingSetManager>
